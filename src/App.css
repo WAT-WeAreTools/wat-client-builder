@@ -63,3 +63,6 @@ nav img {
   float: right;
   margin-top: 2rem;
 }
+.logout {
+  margin-bottom: -80vh;
+}
